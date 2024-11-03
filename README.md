@@ -13,7 +13,7 @@
 
 📫 email: eleanorezimah@gmail.com
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezimahe&show_icons=true&hide_title=true)
 
 
 <!--
