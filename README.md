@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Eleanor, a cybersecurity professional with a strong focus on cloud security and Linux command line challenges. Currently, I am honing my skills through various CTF (Capture The Flag) challenges, exploring the intricacies of network security and system administration.
 
-🌐 My journey involves utilizing tools like Terraform to manage infrastructure as code on cloud platforms, and I am actively documenting my learning process and challenges on this repository.
+🌐 My journey involves utilizing tools like Terraform to manage infrastructure as code on cloud platforms, and I am actively documenting my learning process and challenges on here.
 
 💻 My technical skills include:
 - **Languages**: Python, Bash, SQL
