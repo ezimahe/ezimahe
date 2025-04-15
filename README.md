@@ -1,13 +1,20 @@
 ## About Me
 
-👋 Hi there! I'm Eleanor, a cybersecurity professional with a strong focus on cloud security and Linux command line challenges. Currently, I am honing my skills through various CTF (Capture The Flag) challenges, exploring the intricacies of network security and system administration.
+👋 Hi, I’m Eleanor — a cybersecurity professional with 6+ years of experience specializing in security operations, threat detection, and incident response. I’ve worked extensively in SOC environments, using tools like Sumo Logic, Tenable Nessus, and Okta to monitor threats, reduce vulnerabilities, and enhance enterprise security postures.
 
-🌐 My journey involves utilizing tools like Terraform to manage infrastructure as code on cloud platforms, and I am actively documenting my learning process and challenges on here.
+🔍 I’m particularly strong in web application security, vulnerability management, and red teaming and I enjoy tackling CTFs, digging into Linux based challenges, and understanding adversarial techniques to improve defense strategies.
 
-💻 My technical skills include:
-- **Languages**: Python, Bash, SQL
-- **Tools**: Terraform, Snort, Wireshark, Azure, AWS, Sumo Logic, Tennable(Nessus), Nmap, Kali Linux 
-- **Areas of expertise**: Cloud security, Vulnerability Assessment, Incident Response, Pen Testing
+💡 While my focus is currently on deepening my red team and application security skills, I’m also beginning to explore cloud security and automation to round out my defensive skillset.
+
+🛠️ Technical Highlights:
+
+Languages: Python, Bash, SQL
+
+Tools: Wireshark, Nessus, Snort, Nmap, Sumo Logic, Okta, Kali Linux
+
+Core Areas: Security Operations Engineering, Incident Response, Web App Security, Vulnerability Assessment, Red Team Operations, Cloud Security
+
+🔗 Check out my projects and labs — and feel free to connect or collaborate!
 
 🔗 Check out my [GitHub](https://github.com/ezimahe) for my latest projects and feel free to connect!
 
