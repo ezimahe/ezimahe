@@ -18,7 +18,6 @@ Core Areas: Security Operations Engineering, Incident Response, Web App Security
 
 🔗 Check out my [GitHub](https://github.com/ezimahe) for my latest projects and feel free to connect!
 
-📫 email: eleanorezimah@gmail.com
 
 
 
