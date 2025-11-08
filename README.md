@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Eleanor — a cybersecurity professional with 6+ years of experience specializing in security operations, threat detection, and incident response. I’ve worked extensively in SOC environments, using tools like Sumo Logic, Tenable Nessus, and Okta to monitor threats, reduce vulnerabilities, and enhance enterprise security postures.
 
-🔍 I’m particularly strong in web application security, vulnerability management, and red teaming and I enjoy tackling CTFs, digging into Linux based challenges, and understanding adversarial techniques to improve defense strategies.
+🔍 I’m particularly strong in web application security, vulnerability management, and I enjoy tackling CTFs, digging into Linux based challenges, and understanding adversarial techniques to improve defense strategies.
 
 💡 While my focus is currently on deepening my red team and application security skills, I’m also beginning to explore cloud security and automation to round out my defensive skillset.
 
@@ -10,9 +10,9 @@
 
 Languages: Python, Bash, SQL
 
-Tools: Wireshark, Nessus, Snort, Nmap, Sumo Logic, Okta, Kali Linux
+Tools: Wireshark, Nessus, Nmap, Sumo Logic, Okta, Kali Linux
 
-Core Areas: Security Operations Engineering, Incident Response, Web App Security, Vulnerability Assessment, Red Team Operations, Cloud Security
+Core Areas: Security Operations Engineering, Incident Response, Web App Security, Vulnerability Management, Cloud Security
 
 🔗 Check out my projects and labs — and feel free to connect or collaborate!
 
@@ -20,7 +20,7 @@ Core Areas: Security Operations Engineering, Incident Response, Web App Security
 
 📫 email: eleanorezimah@gmail.com
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezimahe&show_icons=true&hide_title=true)
+
 
 
 <!--
