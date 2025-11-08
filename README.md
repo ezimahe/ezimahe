@@ -16,7 +16,6 @@ Core Areas: Security Operations Engineering, Incident Response, Web App Security
 
 🔗 Check out my projects and labs — and feel free to connect or collaborate!
 
-🔗 Check out my [GitHub](https://github.com/ezimahe) for my latest projects and feel free to connect!
 
 
 
